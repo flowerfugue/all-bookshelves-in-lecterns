@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    "SSS",
+    " B ",
+    " S "
+  ],
+  "key": {
+    "B": [
+	  {
+        "item": "minecraft:chiseled_bookshelf"
+      },
+      {
+        "item": "minecraft:bookshelf"
+      }
+    ],
+    "S": {
+      "tag": "minecraft:wooden_slabs"
+    }
+  },
+  "result": {
+    "id": "minecraft:lectern",
+    "count": 1
+  }
+}

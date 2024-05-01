@@ -1,0 +1,10 @@
+{
+	"pack":{
+		"description": "Makes Lecterns craftable with Chiseled Bookshelves too",
+		"pack_format": 41,
+		"supported_formats": {
+			"min_inclusive": 41,
+			"max_inclusive": 45
+		}
+	}
+}
