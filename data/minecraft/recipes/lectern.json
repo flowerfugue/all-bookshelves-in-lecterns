@@ -8,7 +8,7 @@
   ],
   "key": {
     "B": [
-	  {
+      {
         "item": "minecraft:chiseled_bookshelf"
       },
       {
@@ -20,7 +20,7 @@
     }
   },
   "result": {
-    "id": "minecraft:lectern",
+    "item": "minecraft:lectern",
     "count": 1
   }
 }
